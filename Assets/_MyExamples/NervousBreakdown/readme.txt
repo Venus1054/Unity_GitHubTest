@@ -34,3 +34,5 @@ GameManagerでカードのスプライトを割り当てる際、Assets/_MyExamp
 
 カードを２枚めくって、同じ数字であればカードのSpriteをnullにし、違っていれば２枚とも裏返してください。
 シーンスタートでゲームスタート、全てのカードをnullにしたらゲームクリア。同じシーンをロードしてください。
+
+[追加]https://github.com/misawa2048/Unity_GitHubTest.git から@Venus1054にCloneしました
